@@ -276,7 +276,7 @@ The frontend uses **CDN-loaded libraries** (no npm install needed):
 ## Step 1: Clone / Navigate to Project
 
 ```bash
-cd "c:\Users\Shrimay Dhankar\OneDrive - vit.ac.in\Desktop\Blockchain"
+cd "c:\Users\Nikhil SharmaS\OneDrive - vit.ac.in\Desktop\Blockchain"
 ```
 
 ## Step 2: Install Root Dependencies (Hardhat)
@@ -1185,5 +1185,6 @@ cd backend && npm run dev                      # Start Express server
 ---
 
 > **This project is ready to demo.** Follow Parts 4-8 to set up, deploy, and run the complete system with all three modules (Voting, Land Registry, Fund Tracking) on your local machine with MetaMask.
-#   E - G o v e r n a n c e - S y s t e m - u s i n g - B l o c k c h a i n  
+#   E - G o v e r n a n c e - S y s t e m - u s i n g - B l o c k c h a i n 
+ 
  
